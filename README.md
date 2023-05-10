@@ -6,4 +6,4 @@ My experience with Flutter has allowed me to create custom widgets, handle compl
 
 Please take a look at my Github profile to see some of my projects and code samples. If you have any questions or would like to collaborate, feel free to reach out to me!
 
-#### my Linkedin: https://www.linkedin.com/in/lion-hofman-598564155/
+#### my Linkedin: https://www.linkedin.com/in/lion-hofman/
