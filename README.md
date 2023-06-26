@@ -1,9 +1,14 @@
-### Hello and welcome to my Github! 
+### Hello and welcome to my Github!
 
-I specialize in using Dart and Flutter for software development, with additional expertise in Java, JavaScript, CSS, and HTML. I have completed numerous projects using Flutter to build beautiful and high-performance applications for a variety of industries.
+I am a mobile developer specializing in Dart and Flutter. I have completed numerous successful projects using Flutter to develop attractive and high-performance apps for various sectors.
 
-My experience with Flutter has allowed me to create custom widgets, handle complex animations, and integrate with back-end services seamlessly. My technical skills also include working with Java, JavaScript, CSS, and HTML to deliver cross-platform solutions that run smoothly on both Android and iOS devices.
+My experience with Flutter enables me to create custom widgets, handle complex animations, and implement robust integrations with back-end services.
 
-Please take a look at my Github profile to see some of my projects and code samples. If you have any questions or would like to collaborate, feel free to reach out to me!
+Before diving into the mobile universe, I built a solid career in WEB development. I used JAVA and its various frameworks in several companies, along with experiences with PHP. Through this journey, I gained significant familiarity with creating EndPoints, querying databases with SQL, and developing Front-End using JavaScript, HTML, and CSS for responsive applications.
+
+Despite my extensive WEB experience, the focus of this repository is on my mobile applications, with emphasis on Dart and Flutter, but also including Swift (IOS) and Kotlin (Android).
+
+I invite you to explore my Github profile to see some of my projects and view samples of my code. If you have any questions or are interested in collaborating, please do not hesitate to contact me! I will be available.
+
 
 #### my Linkedin: https://www.linkedin.com/in/lion-hofman/
